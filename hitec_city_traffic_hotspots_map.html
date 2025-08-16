@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_de5a599889ec160d7b93f26536e2c109 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_de5a599889ec160d7b93f26536e2c109" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_de5a599889ec160d7b93f26536e2c109 = L.map(
+                "map_de5a599889ec160d7b93f26536e2c109",
+                {
+                    center: [17.4504, 78.38],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_0322c2ae4c654b71cde9352a126138ad = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_de5a599889ec160d7b93f26536e2c109);
+        
+    
+            var marker_673f4c3776ee356c41427686a840fd0c = L.marker(
+                [17.4425, 78.3828],
+                {}
+            ).addTo(map_de5a599889ec160d7b93f26536e2c109);
+        
+    
+            var icon_c2efaaeca5762a3222619a693a93f032 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "exclamation-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_673f4c3776ee356c41427686a840fd0c.setIcon(icon_c2efaaeca5762a3222619a693a93f032);
+        
+    
+        var popup_d721f28cfc69ef279f3e4e276d5d5af2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_28a08bd3ff17aeb2a4f722b96015544a = $(`<div id="html_28a08bd3ff17aeb2a4f722b96015544a" style="width: 100.0%; height: 100.0%;">HITEC City MMTS Underpass - Severe congestion, flooding during monsoon</div>`)[0];
+            popup_d721f28cfc69ef279f3e4e276d5d5af2.setContent(html_28a08bd3ff17aeb2a4f722b96015544a);
+        
+
+        marker_673f4c3776ee356c41427686a840fd0c.bindPopup(popup_d721f28cfc69ef279f3e4e276d5d5af2)
+        ;
+
+        
+    
+    
+            var marker_651db64a390d5707d12a88ad0f248f3a = L.marker(
+                [17.4379, 78.3678],
+                {}
+            ).addTo(map_de5a599889ec160d7b93f26536e2c109);
+        
+    
+            var icon_7504bd1b73f822bcdb3bd740005c25cc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "exclamation-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_651db64a390d5707d12a88ad0f248f3a.setIcon(icon_7504bd1b73f822bcdb3bd740005c25cc);
+        
+    
+        var popup_4ec64ab0190efebc91213b362bfe327c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_753fe0586c3c12a2d700fe8959e54422 = $(`<div id="html_753fe0586c3c12a2d700fe8959e54422" style="width: 100.0%; height: 100.0%;">Gachibowli Flyover & Cyber Towers Corridor - Chronic evening gridlock</div>`)[0];
+            popup_4ec64ab0190efebc91213b362bfe327c.setContent(html_753fe0586c3c12a2d700fe8959e54422);
+        
+
+        marker_651db64a390d5707d12a88ad0f248f3a.bindPopup(popup_4ec64ab0190efebc91213b362bfe327c)
+        ;
+
+        
+    
+    
+            var marker_c052efae2ba874ea94e5085987e87e8d = L.marker(
+                [17.4436, 78.3795],
+                {}
+            ).addTo(map_de5a599889ec160d7b93f26536e2c109);
+        
+    
+            var icon_61b135ab79b767bc3bef8f10ec47e818 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "exclamation-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_c052efae2ba874ea94e5085987e87e8d.setIcon(icon_61b135ab79b767bc3bef8f10ec47e818);
+        
+    
+        var popup_109eca9b043317ad4650058d8afc3dc5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_2d019c2a83931c5f51e18f6806824356 = $(`<div id="html_2d019c2a83931c5f51e18f6806824356" style="width: 100.0%; height: 100.0%;">Mindspace ⇄ Yashoda Hospital Stretch - Heavy AM congestion, illegal parking</div>`)[0];
+            popup_109eca9b043317ad4650058d8afc3dc5.setContent(html_2d019c2a83931c5f51e18f6806824356);
+        
+
+        marker_c052efae2ba874ea94e5085987e87e8d.bindPopup(popup_109eca9b043317ad4650058d8afc3dc5)
+        ;
+
+        
+    
+    
+            var marker_cffe5760bff6232962d59f2517f59b11 = L.marker(
+                [17.4446, 78.3803],
+                {}
+            ).addTo(map_de5a599889ec160d7b93f26536e2c109);
+        
+    
+            var icon_185c4f6c320942d240c195c983c4eb4a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "exclamation-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_cffe5760bff6232962d59f2517f59b11.setIcon(icon_185c4f6c320942d240c195c983c4eb4a);
+        
+    
+        var popup_83bcf67d3cd0cd1e0eceabe9f270f780 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_78297f2919400b6203fa36a0b52d2763 = $(`<div id="html_78297f2919400b6203fa36a0b52d2763" style="width: 100.0%; height: 100.0%;">Cyber Towers – Mindspace Rotary - Frequent jams, pedestrian bottlenecks</div>`)[0];
+            popup_83bcf67d3cd0cd1e0eceabe9f270f780.setContent(html_78297f2919400b6203fa36a0b52d2763);
+        
+
+        marker_cffe5760bff6232962d59f2517f59b11.bindPopup(popup_83bcf67d3cd0cd1e0eceabe9f270f780)
+        ;
+
+        
+    
+    
+            var marker_3ba83ed0a3f922d23a33619d76bf6d92 = L.marker(
+                [17.48, 78.448],
+                {}
+            ).addTo(map_de5a599889ec160d7b93f26536e2c109);
+        
+    
+            var icon_c34e1810f6d4a7f032abd5b3c07b0f14 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "exclamation-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_3ba83ed0a3f922d23a33619d76bf6d92.setIcon(icon_c34e1810f6d4a7f032abd5b3c07b0f14);
+        
+    
+        var popup_964a6acfccac7a231ad0d08d5f6a3f74 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e7e3b8bffe4b80dad81e1262770b5f2c = $(`<div id="html_e7e3b8bffe4b80dad81e1262770b5f2c" style="width: 100.0%; height: 100.0%;">Alternate U-Turn Bottlenecks - Long diversions increasing travel time</div>`)[0];
+            popup_964a6acfccac7a231ad0d08d5f6a3f74.setContent(html_e7e3b8bffe4b80dad81e1262770b5f2c);
+        
+
+        marker_3ba83ed0a3f922d23a33619d76bf6d92.bindPopup(popup_964a6acfccac7a231ad0d08d5f6a3f74)
+        ;
+
+        
+    
+</script>
+</html>

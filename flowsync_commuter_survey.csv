@@ -1,0 +1,501 @@
+respondent_id,route,current_commute_min,willing_to_shift,preferred_departure_slot_evening,incentive_preference
+1,Mindspace→Gachibowli,20,Yes,4:45-5:15 PM,Yes - transport stipend
+2,Mindspace→Kukatpally,35,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+3,Gachibowli→HITEC,45,Yes,6:45-7:15 PM,None
+4,Mindspace→Gachibowli,50,Yes,5:45-6:15 PM,None
+5,Mindspace→Kukatpally,40,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+6,Mindspace→Kukatpally,40,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+7,Raidurg→Madhapur,30,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+8,Mindspace→Kukatpally,35,Yes,5:15-5:45 PM,Yes - transport stipend
+9,Madhapur→IKEA,40,Yes,5:45-6:15 PM,None
+10,Mindspace→Gachibowli,30,No,5:15-5:45 PM,Yes - small (coffee/month)
+11,Mindspace→Gachibowli,35,Yes,7:45-8:15 PM,None
+12,Raidurg→Madhapur,35,Maybe,7:45-8:15 PM,Yes - transport stipend
+13,Gachibowli→HITEC,20,Maybe,6:15-6:45 PM,Yes - transport stipend
+14,Mindspace→Kukatpally,35,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+15,Raidurg→Madhapur,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+16,Raidurg→Madhapur,35,Yes,6:15-6:45 PM,None
+17,Mindspace→Kukatpally,30,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+18,Madhapur→IKEA,50,Yes,6:45-7:15 PM,Yes - transport stipend
+19,Gachibowli→HITEC,40,No,5:15-5:45 PM,Yes - small (coffee/month)
+20,Raidurg→Madhapur,45,Yes,7:15-7:45 PM,None
+21,Madhapur→IKEA,45,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+22,Madhapur→IKEA,40,Yes,6:45-7:15 PM,Yes - transport stipend
+23,Gachibowli→HITEC,20,Maybe,4:45-5:15 PM,None
+24,Gachibowli→HITEC,40,Yes,5:45-6:15 PM,None
+25,Raidurg→Madhapur,40,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+26,Raidurg→Madhapur,45,Yes,5:45-6:15 PM,Yes - transport stipend
+27,Raidurg→Madhapur,35,Maybe,4:45-5:15 PM,None
+28,Gachibowli→HITEC,30,Yes,7:45-8:15 PM,None
+29,Mindspace→Kukatpally,35,No,6:15-6:45 PM,None
+30,Madhapur→IKEA,35,No,5:45-6:15 PM,None
+31,Madhapur→IKEA,40,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+32,Mindspace→Kukatpally,40,No,5:45-6:15 PM,Yes - small (coffee/month)
+33,Gachibowli→HITEC,35,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+34,Mindspace→Kukatpally,60,No,6:15-6:45 PM,Yes - small (coffee/month)
+35,Mindspace→Kukatpally,40,No,7:15-7:45 PM,None
+36,Gachibowli→HITEC,30,Yes,5:45-6:15 PM,Yes - transport stipend
+37,Mindspace→Kukatpally,30,Yes,7:45-8:15 PM,Yes - small (coffee/month)
+38,Gachibowli→HITEC,30,Maybe,7:15-7:45 PM,Yes - transport stipend
+39,Gachibowli→HITEC,30,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+40,Mindspace→Gachibowli,30,Yes,7:45-8:15 PM,None
+41,Mindspace→Kukatpally,30,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+42,Mindspace→Kukatpally,35,No,7:15-7:45 PM,None
+43,Raidurg→Madhapur,30,No,5:45-6:15 PM,Yes - small (coffee/month)
+44,Other,50,Yes,7:15-7:45 PM,None
+45,Raidurg→Madhapur,20,Yes,7:15-7:45 PM,None
+46,Mindspace→Kukatpally,40,Yes,7:15-7:45 PM,Yes - transport stipend
+47,Raidurg→Madhapur,35,No,6:45-7:15 PM,None
+48,Mindspace→Gachibowli,60,Yes,5:45-6:15 PM,Yes - transport stipend
+49,Gachibowli→HITEC,30,No,4:45-5:15 PM,None
+50,Mindspace→Kukatpally,35,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+51,Gachibowli→HITEC,60,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+52,Mindspace→Gachibowli,50,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+53,Other,50,Yes,5:45-6:15 PM,None
+54,Mindspace→Kukatpally,35,Yes,7:45-8:15 PM,None
+55,Raidurg→Madhapur,30,Maybe,6:15-6:45 PM,None
+56,Madhapur→IKEA,45,Maybe,7:15-7:45 PM,None
+57,Mindspace→Kukatpally,60,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+58,Madhapur→IKEA,40,No,7:15-7:45 PM,Yes - transport stipend
+59,Raidurg→Madhapur,40,Maybe,7:45-8:15 PM,Yes - transport stipend
+60,Mindspace→Kukatpally,35,No,5:45-6:15 PM,Yes - small (coffee/month)
+61,Mindspace→Kukatpally,45,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+62,Gachibowli→HITEC,30,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+63,Mindspace→Kukatpally,35,Yes,5:15-5:45 PM,None
+64,Raidurg→Madhapur,35,Maybe,6:15-6:45 PM,Yes - transport stipend
+65,Mindspace→Kukatpally,40,Maybe,5:45-6:15 PM,Yes - small (coffee/month)
+66,Raidurg→Madhapur,30,No,5:15-5:45 PM,Yes - small (coffee/month)
+67,Mindspace→Kukatpally,30,Yes,5:45-6:15 PM,None
+68,Madhapur→IKEA,40,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+69,Other,35,No,4:45-5:15 PM,Yes - small (coffee/month)
+70,Other,40,Maybe,5:15-5:45 PM,Yes - transport stipend
+71,Gachibowli→HITEC,30,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+72,Mindspace→Kukatpally,40,No,6:15-6:45 PM,None
+73,Gachibowli→HITEC,40,No,7:45-8:15 PM,Yes - transport stipend
+74,Mindspace→Kukatpally,20,Yes,5:45-6:15 PM,None
+75,Mindspace→Kukatpally,35,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+76,Mindspace→Kukatpally,30,Maybe,6:15-6:45 PM,None
+77,Mindspace→Gachibowli,20,No,5:45-6:15 PM,Yes - small (coffee/month)
+78,Gachibowli→HITEC,60,Yes,4:45-5:15 PM,Yes - transport stipend
+79,Raidurg→Madhapur,35,Yes,6:15-6:45 PM,None
+80,Mindspace→Gachibowli,50,No,5:15-5:45 PM,Yes - transport stipend
+81,Mindspace→Kukatpally,35,Yes,6:15-6:45 PM,None
+82,Other,45,Yes,6:15-6:45 PM,Yes - transport stipend
+83,Mindspace→Gachibowli,45,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+84,Mindspace→Gachibowli,40,No,4:45-5:15 PM,Yes - transport stipend
+85,Mindspace→Kukatpally,40,No,6:45-7:15 PM,None
+86,Gachibowli→HITEC,35,Yes,5:45-6:15 PM,Yes - transport stipend
+87,Raidurg→Madhapur,35,No,4:45-5:15 PM,Yes - small (coffee/month)
+88,Mindspace→Kukatpally,60,Yes,7:45-8:15 PM,None
+89,Mindspace→Kukatpally,50,Yes,4:45-5:15 PM,Yes - transport stipend
+90,Raidurg→Madhapur,60,No,6:45-7:15 PM,None
+91,Raidurg→Madhapur,30,No,7:45-8:15 PM,Yes - transport stipend
+92,Mindspace→Kukatpally,45,Maybe,5:15-5:45 PM,None
+93,Other,60,No,5:15-5:45 PM,Yes - small (coffee/month)
+94,Mindspace→Kukatpally,30,No,5:15-5:45 PM,Yes - small (coffee/month)
+95,Mindspace→Gachibowli,20,Yes,5:45-6:15 PM,None
+96,Madhapur→IKEA,45,Yes,4:45-5:15 PM,None
+97,Mindspace→Gachibowli,40,Yes,6:45-7:15 PM,None
+98,Raidurg→Madhapur,50,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+99,Mindspace→Gachibowli,30,Maybe,6:15-6:45 PM,None
+100,Mindspace→Kukatpally,45,Yes,7:45-8:15 PM,Yes - small (coffee/month)
+101,Other,30,Maybe,7:15-7:45 PM,None
+102,Mindspace→Gachibowli,30,No,6:15-6:45 PM,None
+103,Madhapur→IKEA,30,No,5:45-6:15 PM,Yes - small (coffee/month)
+104,Mindspace→Kukatpally,50,Yes,6:15-6:45 PM,None
+105,Mindspace→Kukatpally,45,No,6:15-6:45 PM,Yes - transport stipend
+106,Mindspace→Kukatpally,40,Yes,5:45-6:15 PM,Yes - transport stipend
+107,Raidurg→Madhapur,35,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+108,Mindspace→Gachibowli,50,No,7:15-7:45 PM,Yes - small (coffee/month)
+109,Madhapur→IKEA,35,Yes,5:45-6:15 PM,Yes - transport stipend
+110,Mindspace→Gachibowli,50,Yes,5:15-5:45 PM,None
+111,Other,35,No,5:45-6:15 PM,None
+112,Mindspace→Kukatpally,35,Yes,5:45-6:15 PM,None
+113,Madhapur→IKEA,40,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+114,Gachibowli→HITEC,35,Maybe,6:45-7:15 PM,None
+115,Gachibowli→HITEC,45,Maybe,6:45-7:15 PM,Yes - small (coffee/month)
+116,Gachibowli→HITEC,40,Yes,4:45-5:15 PM,Yes - transport stipend
+117,Gachibowli→HITEC,30,Yes,5:45-6:15 PM,Yes - transport stipend
+118,Raidurg→Madhapur,50,Maybe,5:45-6:15 PM,Yes - small (coffee/month)
+119,Mindspace→Kukatpally,35,Yes,4:45-5:15 PM,None
+120,Mindspace→Kukatpally,40,Maybe,5:15-5:45 PM,Yes - transport stipend
+121,Madhapur→IKEA,60,Maybe,6:45-7:15 PM,Yes - small (coffee/month)
+122,Raidurg→Madhapur,40,Maybe,5:15-5:45 PM,None
+123,Gachibowli→HITEC,30,Yes,6:15-6:45 PM,None
+124,Mindspace→Gachibowli,60,Yes,5:15-5:45 PM,Yes - transport stipend
+125,Mindspace→Kukatpally,40,Maybe,4:45-5:15 PM,Yes - small (coffee/month)
+126,Mindspace→Kukatpally,35,Yes,5:15-5:45 PM,Yes - transport stipend
+127,Raidurg→Madhapur,30,Yes,7:45-8:15 PM,Yes - transport stipend
+128,Mindspace→Gachibowli,45,No,7:15-7:45 PM,Yes - small (coffee/month)
+129,Mindspace→Kukatpally,40,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+130,Mindspace→Gachibowli,40,No,5:45-6:15 PM,Yes - small (coffee/month)
+131,Mindspace→Kukatpally,50,No,4:45-5:15 PM,None
+132,Raidurg→Madhapur,45,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+133,Mindspace→Kukatpally,30,No,5:45-6:15 PM,Yes - small (coffee/month)
+134,Gachibowli→HITEC,35,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+135,Mindspace→Kukatpally,30,Yes,4:45-5:15 PM,Yes - transport stipend
+136,Mindspace→Gachibowli,45,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+137,Mindspace→Kukatpally,20,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+138,Mindspace→Kukatpally,40,No,5:45-6:15 PM,Yes - small (coffee/month)
+139,Mindspace→Gachibowli,45,No,6:45-7:15 PM,Yes - small (coffee/month)
+140,Mindspace→Gachibowli,50,No,5:45-6:15 PM,Yes - small (coffee/month)
+141,Raidurg→Madhapur,35,Yes,5:45-6:15 PM,None
+142,Mindspace→Kukatpally,50,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+143,Raidurg→Madhapur,30,Maybe,5:45-6:15 PM,None
+144,Madhapur→IKEA,50,Maybe,6:45-7:15 PM,None
+145,Gachibowli→HITEC,30,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+146,Mindspace→Kukatpally,35,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+147,Mindspace→Gachibowli,45,Yes,6:45-7:15 PM,Yes - transport stipend
+148,Mindspace→Kukatpally,30,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+149,Mindspace→Kukatpally,30,No,6:45-7:15 PM,Yes - small (coffee/month)
+150,Other,45,No,5:45-6:15 PM,Yes - small (coffee/month)
+151,Mindspace→Kukatpally,45,No,5:15-5:45 PM,Yes - small (coffee/month)
+152,Mindspace→Gachibowli,40,No,7:15-7:45 PM,None
+153,Raidurg→Madhapur,45,Maybe,4:45-5:15 PM,None
+154,Gachibowli→HITEC,40,Yes,7:15-7:45 PM,None
+155,Raidurg→Madhapur,35,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+156,Mindspace→Kukatpally,35,Yes,6:15-6:45 PM,None
+157,Mindspace→Kukatpally,30,No,6:15-6:45 PM,None
+158,Mindspace→Gachibowli,60,Yes,7:15-7:45 PM,None
+159,Mindspace→Kukatpally,40,Yes,6:15-6:45 PM,Yes - transport stipend
+160,Mindspace→Gachibowli,35,Yes,6:15-6:45 PM,None
+161,Mindspace→Kukatpally,40,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+162,Mindspace→Kukatpally,60,No,6:15-6:45 PM,None
+163,Mindspace→Gachibowli,30,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+164,Mindspace→Kukatpally,40,Yes,6:45-7:15 PM,None
+165,Raidurg→Madhapur,40,Maybe,6:15-6:45 PM,None
+166,Raidurg→Madhapur,40,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+167,Gachibowli→HITEC,20,Yes,4:45-5:15 PM,None
+168,Mindspace→Kukatpally,50,Yes,4:45-5:15 PM,None
+169,Mindspace→Kukatpally,60,No,6:45-7:15 PM,None
+170,Mindspace→Kukatpally,40,Yes,4:45-5:15 PM,None
+171,Raidurg→Madhapur,45,No,4:45-5:15 PM,None
+172,Gachibowli→HITEC,60,Yes,4:45-5:15 PM,None
+173,Mindspace→Kukatpally,45,Yes,7:45-8:15 PM,Yes - transport stipend
+174,Madhapur→IKEA,30,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+175,Mindspace→Kukatpally,40,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+176,Mindspace→Gachibowli,40,No,5:15-5:45 PM,None
+177,Gachibowli→HITEC,35,No,5:45-6:15 PM,Yes - transport stipend
+178,Madhapur→IKEA,45,Maybe,6:45-7:15 PM,None
+179,Gachibowli→HITEC,60,Yes,6:15-6:45 PM,None
+180,Gachibowli→HITEC,60,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+181,Mindspace→Kukatpally,40,No,5:15-5:45 PM,None
+182,Gachibowli→HITEC,30,Yes,4:45-5:15 PM,None
+183,Mindspace→Kukatpally,60,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+184,Madhapur→IKEA,50,Yes,6:45-7:15 PM,Yes - transport stipend
+185,Mindspace→Gachibowli,30,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+186,Gachibowli→HITEC,60,Maybe,4:45-5:15 PM,Yes - small (coffee/month)
+187,Mindspace→Gachibowli,50,Maybe,4:45-5:15 PM,Yes - transport stipend
+188,Raidurg→Madhapur,40,No,7:45-8:15 PM,None
+189,Mindspace→Gachibowli,40,Yes,5:15-5:45 PM,None
+190,Gachibowli→HITEC,35,Yes,6:45-7:15 PM,None
+191,Mindspace→Kukatpally,20,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+192,Mindspace→Kukatpally,35,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+193,Mindspace→Kukatpally,50,Yes,5:15-5:45 PM,Yes - transport stipend
+194,Mindspace→Kukatpally,20,No,5:15-5:45 PM,Yes - small (coffee/month)
+195,Madhapur→IKEA,35,No,6:15-6:45 PM,Yes - small (coffee/month)
+196,Mindspace→Kukatpally,35,Yes,6:45-7:15 PM,None
+197,Other,40,Maybe,6:15-6:45 PM,Yes - transport stipend
+198,Mindspace→Kukatpally,60,No,6:15-6:45 PM,Yes - transport stipend
+199,Mindspace→Kukatpally,35,No,4:45-5:15 PM,Yes - transport stipend
+200,Gachibowli→HITEC,35,No,7:45-8:15 PM,None
+201,Raidurg→Madhapur,45,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+202,Mindspace→Gachibowli,40,Yes,5:15-5:45 PM,None
+203,Raidurg→Madhapur,30,Yes,7:45-8:15 PM,None
+204,Gachibowli→HITEC,40,No,6:15-6:45 PM,None
+205,Mindspace→Kukatpally,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+206,Other,30,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+207,Other,40,Yes,7:15-7:45 PM,None
+208,Raidurg→Madhapur,35,Yes,6:15-6:45 PM,None
+209,Mindspace→Kukatpally,60,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+210,Raidurg→Madhapur,35,No,5:45-6:15 PM,None
+211,Mindspace→Kukatpally,40,Yes,7:45-8:15 PM,None
+212,Mindspace→Kukatpally,40,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+213,Mindspace→Kukatpally,20,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+214,Mindspace→Gachibowli,45,Yes,5:45-6:15 PM,None
+215,Madhapur→IKEA,30,Yes,5:45-6:15 PM,None
+216,Gachibowli→HITEC,60,Yes,6:15-6:45 PM,None
+217,Gachibowli→HITEC,30,Yes,7:45-8:15 PM,Yes - transport stipend
+218,Mindspace→Gachibowli,35,No,5:15-5:45 PM,Yes - small (coffee/month)
+219,Mindspace→Kukatpally,20,No,5:15-5:45 PM,Yes - small (coffee/month)
+220,Mindspace→Gachibowli,60,Yes,5:15-5:45 PM,None
+221,Other,40,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+222,Mindspace→Kukatpally,40,No,6:15-6:45 PM,None
+223,Madhapur→IKEA,20,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+224,Raidurg→Madhapur,45,Maybe,7:15-7:45 PM,Yes - transport stipend
+225,Mindspace→Gachibowli,30,No,7:15-7:45 PM,Yes - small (coffee/month)
+226,Gachibowli→HITEC,50,Yes,7:15-7:45 PM,Yes - transport stipend
+227,Mindspace→Gachibowli,30,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+228,Madhapur→IKEA,30,No,5:15-5:45 PM,None
+229,Madhapur→IKEA,20,Yes,6:45-7:15 PM,Yes - transport stipend
+230,Mindspace→Gachibowli,40,No,5:45-6:15 PM,None
+231,Mindspace→Kukatpally,40,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+232,Raidurg→Madhapur,20,No,6:45-7:15 PM,None
+233,Madhapur→IKEA,45,Yes,6:45-7:15 PM,None
+234,Mindspace→Kukatpally,40,No,6:15-6:45 PM,Yes - small (coffee/month)
+235,Raidurg→Madhapur,40,Yes,5:15-5:45 PM,None
+236,Raidurg→Madhapur,35,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+237,Gachibowli→HITEC,35,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+238,Mindspace→Kukatpally,40,Yes,7:45-8:15 PM,None
+239,Gachibowli→HITEC,30,Maybe,4:45-5:15 PM,None
+240,Madhapur→IKEA,30,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+241,Mindspace→Kukatpally,50,Yes,5:15-5:45 PM,None
+242,Mindspace→Kukatpally,60,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+243,Other,35,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+244,Mindspace→Kukatpally,35,Yes,5:15-5:45 PM,Yes - transport stipend
+245,Madhapur→IKEA,40,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+246,Mindspace→Gachibowli,35,No,7:15-7:45 PM,Yes - small (coffee/month)
+247,Mindspace→Kukatpally,20,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+248,Madhapur→IKEA,30,Yes,6:15-6:45 PM,None
+249,Mindspace→Gachibowli,45,Maybe,6:15-6:45 PM,None
+250,Mindspace→Gachibowli,45,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+251,Mindspace→Gachibowli,20,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+252,Raidurg→Madhapur,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+253,Mindspace→Kukatpally,30,Yes,6:45-7:15 PM,Yes - transport stipend
+254,Mindspace→Gachibowli,45,No,7:15-7:45 PM,Yes - transport stipend
+255,Other,20,No,6:15-6:45 PM,Yes - transport stipend
+256,Mindspace→Kukatpally,30,Maybe,6:45-7:15 PM,Yes - small (coffee/month)
+257,Raidurg→Madhapur,45,No,5:15-5:45 PM,None
+258,Mindspace→Kukatpally,30,Maybe,5:45-6:15 PM,Yes - small (coffee/month)
+259,Gachibowli→HITEC,45,Yes,4:45-5:15 PM,None
+260,Mindspace→Kukatpally,30,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+261,Other,20,No,6:45-7:15 PM,Yes - small (coffee/month)
+262,Mindspace→Gachibowli,30,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+263,Mindspace→Kukatpally,45,Maybe,4:45-5:15 PM,None
+264,Mindspace→Kukatpally,50,Yes,5:45-6:15 PM,None
+265,Mindspace→Kukatpally,50,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+266,Mindspace→Gachibowli,35,No,5:15-5:45 PM,None
+267,Mindspace→Kukatpally,45,Yes,6:15-6:45 PM,Yes - transport stipend
+268,Gachibowli→HITEC,30,Maybe,6:45-7:15 PM,None
+269,Mindspace→Gachibowli,35,Maybe,6:15-6:45 PM,None
+270,Mindspace→Kukatpally,50,Yes,5:15-5:45 PM,None
+271,Raidurg→Madhapur,20,No,5:45-6:15 PM,Yes - small (coffee/month)
+272,Gachibowli→HITEC,20,No,6:45-7:15 PM,Yes - small (coffee/month)
+273,Mindspace→Kukatpally,30,Yes,6:15-6:45 PM,None
+274,Mindspace→Kukatpally,20,Maybe,4:45-5:15 PM,None
+275,Mindspace→Kukatpally,30,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+276,Gachibowli→HITEC,40,Maybe,4:45-5:15 PM,None
+277,Raidurg→Madhapur,35,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+278,Mindspace→Gachibowli,50,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+279,Gachibowli→HITEC,50,Yes,7:45-8:15 PM,None
+280,Gachibowli→HITEC,35,Yes,5:45-6:15 PM,None
+281,Raidurg→Madhapur,35,Maybe,5:45-6:15 PM,Yes - transport stipend
+282,Madhapur→IKEA,35,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+283,Mindspace→Kukatpally,40,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+284,Mindspace→Kukatpally,35,Maybe,7:15-7:45 PM,None
+285,Mindspace→Kukatpally,40,Maybe,7:45-8:15 PM,Yes - small (coffee/month)
+286,Mindspace→Kukatpally,35,No,5:45-6:15 PM,None
+287,Mindspace→Gachibowli,40,No,5:45-6:15 PM,Yes - small (coffee/month)
+288,Madhapur→IKEA,35,Yes,6:45-7:15 PM,Yes - transport stipend
+289,Mindspace→Kukatpally,35,Yes,7:15-7:45 PM,None
+290,Mindspace→Kukatpally,60,Yes,6:15-6:45 PM,None
+291,Mindspace→Gachibowli,45,No,5:45-6:15 PM,None
+292,Madhapur→IKEA,30,No,5:45-6:15 PM,None
+293,Mindspace→Kukatpally,50,No,6:45-7:15 PM,None
+294,Mindspace→Gachibowli,40,No,4:45-5:15 PM,None
+295,Mindspace→Kukatpally,50,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+296,Mindspace→Kukatpally,45,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+297,Other,35,Yes,6:45-7:15 PM,None
+298,Other,20,Yes,4:45-5:15 PM,Yes - transport stipend
+299,Mindspace→Kukatpally,35,Yes,6:15-6:45 PM,None
+300,Other,40,Maybe,5:45-6:15 PM,Yes - transport stipend
+301,Raidurg→Madhapur,40,Yes,6:15-6:45 PM,None
+302,Madhapur→IKEA,35,Yes,4:45-5:15 PM,Yes - transport stipend
+303,Mindspace→Gachibowli,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+304,Mindspace→Gachibowli,50,No,6:15-6:45 PM,Yes - transport stipend
+305,Mindspace→Gachibowli,60,No,6:15-6:45 PM,Yes - transport stipend
+306,Raidurg→Madhapur,40,Yes,6:15-6:45 PM,None
+307,Mindspace→Kukatpally,30,Yes,6:15-6:45 PM,Yes - transport stipend
+308,Mindspace→Kukatpally,35,No,7:15-7:45 PM,None
+309,Mindspace→Kukatpally,20,Yes,5:15-5:45 PM,None
+310,Gachibowli→HITEC,60,Maybe,7:15-7:45 PM,None
+311,Mindspace→Kukatpally,30,No,5:45-6:15 PM,Yes - small (coffee/month)
+312,Raidurg→Madhapur,40,Yes,4:45-5:15 PM,None
+313,Other,35,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+314,Mindspace→Kukatpally,40,Maybe,5:45-6:15 PM,Yes - small (coffee/month)
+315,Raidurg→Madhapur,45,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+316,Mindspace→Gachibowli,50,Yes,6:45-7:15 PM,Yes - transport stipend
+317,Madhapur→IKEA,30,Maybe,6:45-7:15 PM,Yes - small (coffee/month)
+318,Mindspace→Kukatpally,20,Maybe,6:15-6:45 PM,None
+319,Raidurg→Madhapur,30,Maybe,5:45-6:15 PM,None
+320,Gachibowli→HITEC,60,No,5:15-5:45 PM,None
+321,Madhapur→IKEA,50,Yes,5:45-6:15 PM,None
+322,Raidurg→Madhapur,40,Yes,5:45-6:15 PM,None
+323,Mindspace→Gachibowli,40,No,4:45-5:15 PM,None
+324,Raidurg→Madhapur,45,No,5:15-5:45 PM,Yes - transport stipend
+325,Madhapur→IKEA,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+326,Raidurg→Madhapur,60,Maybe,6:45-7:15 PM,None
+327,Mindspace→Kukatpally,35,Yes,7:45-8:15 PM,Yes - small (coffee/month)
+328,Madhapur→IKEA,35,Yes,7:45-8:15 PM,None
+329,Raidurg→Madhapur,40,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+330,Raidurg→Madhapur,20,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+331,Mindspace→Kukatpally,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+332,Raidurg→Madhapur,45,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+333,Mindspace→Gachibowli,20,Yes,4:45-5:15 PM,Yes - transport stipend
+334,Raidurg→Madhapur,40,No,5:45-6:15 PM,Yes - transport stipend
+335,Mindspace→Kukatpally,30,No,7:15-7:45 PM,Yes - small (coffee/month)
+336,Raidurg→Madhapur,35,No,5:45-6:15 PM,Yes - small (coffee/month)
+337,Other,35,Maybe,6:15-6:45 PM,Yes - small (coffee/month)
+338,Mindspace→Kukatpally,35,Yes,6:15-6:45 PM,None
+339,Other,45,Yes,5:15-5:45 PM,None
+340,Mindspace→Gachibowli,35,Maybe,5:45-6:15 PM,None
+341,Madhapur→IKEA,40,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+342,Gachibowli→HITEC,40,Maybe,4:45-5:15 PM,Yes - small (coffee/month)
+343,Raidurg→Madhapur,45,Yes,4:45-5:15 PM,None
+344,Gachibowli→HITEC,60,Maybe,7:15-7:45 PM,Yes - transport stipend
+345,Madhapur→IKEA,45,Yes,5:15-5:45 PM,Yes - transport stipend
+346,Mindspace→Gachibowli,30,Maybe,6:15-6:45 PM,Yes - small (coffee/month)
+347,Mindspace→Kukatpally,20,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+348,Raidurg→Madhapur,35,Maybe,7:45-8:15 PM,Yes - transport stipend
+349,Gachibowli→HITEC,40,Yes,5:15-5:45 PM,None
+350,Gachibowli→HITEC,20,No,5:45-6:15 PM,Yes - small (coffee/month)
+351,Gachibowli→HITEC,40,Maybe,7:15-7:45 PM,None
+352,Mindspace→Gachibowli,40,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+353,Gachibowli→HITEC,35,No,5:15-5:45 PM,None
+354,Mindspace→Kukatpally,45,No,7:15-7:45 PM,Yes - transport stipend
+355,Mindspace→Gachibowli,30,Yes,5:45-6:15 PM,Yes - transport stipend
+356,Mindspace→Kukatpally,20,No,5:45-6:15 PM,None
+357,Mindspace→Kukatpally,45,No,5:15-5:45 PM,Yes - small (coffee/month)
+358,Mindspace→Gachibowli,40,Maybe,4:45-5:15 PM,Yes - transport stipend
+359,Mindspace→Gachibowli,45,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+360,Raidurg→Madhapur,35,Yes,5:45-6:15 PM,Yes - transport stipend
+361,Mindspace→Gachibowli,30,Maybe,5:45-6:15 PM,Yes - small (coffee/month)
+362,Mindspace→Gachibowli,50,Maybe,6:45-7:15 PM,None
+363,Mindspace→Kukatpally,45,Yes,6:45-7:15 PM,None
+364,Mindspace→Gachibowli,45,No,5:15-5:45 PM,None
+365,Mindspace→Kukatpally,35,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+366,Mindspace→Kukatpally,40,Yes,5:15-5:45 PM,None
+367,Raidurg→Madhapur,35,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+368,Raidurg→Madhapur,20,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+369,Raidurg→Madhapur,60,No,7:45-8:15 PM,Yes - small (coffee/month)
+370,Mindspace→Gachibowli,30,Yes,4:45-5:15 PM,Yes - transport stipend
+371,Mindspace→Gachibowli,60,Maybe,4:45-5:15 PM,Yes - transport stipend
+372,Madhapur→IKEA,35,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+373,Mindspace→Gachibowli,30,No,5:15-5:45 PM,Yes - transport stipend
+374,Mindspace→Gachibowli,40,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+375,Mindspace→Kukatpally,50,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+376,Mindspace→Kukatpally,45,Maybe,5:15-5:45 PM,Yes - transport stipend
+377,Mindspace→Gachibowli,50,No,5:15-5:45 PM,None
+378,Mindspace→Gachibowli,45,Yes,6:45-7:15 PM,None
+379,Raidurg→Madhapur,45,Maybe,5:45-6:15 PM,Yes - transport stipend
+380,Mindspace→Gachibowli,50,Maybe,6:45-7:15 PM,Yes - small (coffee/month)
+381,Raidurg→Madhapur,30,Maybe,4:45-5:15 PM,Yes - transport stipend
+382,Gachibowli→HITEC,40,No,5:45-6:15 PM,Yes - transport stipend
+383,Gachibowli→HITEC,30,No,4:45-5:15 PM,None
+384,Gachibowli→HITEC,60,Yes,4:45-5:15 PM,Yes - transport stipend
+385,Other,60,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+386,Mindspace→Kukatpally,20,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+387,Mindspace→Kukatpally,45,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+388,Mindspace→Kukatpally,60,Yes,5:45-6:15 PM,Yes - transport stipend
+389,Raidurg→Madhapur,30,Yes,5:45-6:15 PM,None
+390,Madhapur→IKEA,40,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+391,Mindspace→Kukatpally,60,Maybe,4:45-5:15 PM,Yes - small (coffee/month)
+392,Madhapur→IKEA,20,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+393,Mindspace→Kukatpally,45,No,7:45-8:15 PM,Yes - small (coffee/month)
+394,Madhapur→IKEA,35,Yes,6:15-6:45 PM,None
+395,Mindspace→Gachibowli,60,Maybe,7:45-8:15 PM,None
+396,Mindspace→Kukatpally,60,Maybe,4:45-5:15 PM,None
+397,Mindspace→Gachibowli,60,Maybe,5:45-6:15 PM,Yes - transport stipend
+398,Mindspace→Kukatpally,40,Yes,5:15-5:45 PM,None
+399,Mindspace→Kukatpally,50,Yes,6:45-7:15 PM,None
+400,Mindspace→Kukatpally,50,Yes,7:45-8:15 PM,Yes - transport stipend
+401,Gachibowli→HITEC,35,Yes,5:15-5:45 PM,None
+402,Mindspace→Gachibowli,50,Maybe,6:15-6:45 PM,Yes - transport stipend
+403,Mindspace→Kukatpally,20,Maybe,5:15-5:45 PM,Yes - small (coffee/month)
+404,Raidurg→Madhapur,40,Maybe,6:15-6:45 PM,Yes - transport stipend
+405,Gachibowli→HITEC,30,Maybe,5:45-6:15 PM,None
+406,Mindspace→Kukatpally,30,No,7:45-8:15 PM,None
+407,Mindspace→Gachibowli,20,No,6:15-6:45 PM,Yes - small (coffee/month)
+408,Mindspace→Kukatpally,45,Maybe,5:45-6:15 PM,Yes - transport stipend
+409,Mindspace→Kukatpally,35,Maybe,4:45-5:15 PM,Yes - small (coffee/month)
+410,Raidurg→Madhapur,45,Yes,5:15-5:45 PM,None
+411,Mindspace→Kukatpally,20,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+412,Mindspace→Gachibowli,35,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+413,Gachibowli→HITEC,40,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+414,Mindspace→Kukatpally,45,No,6:15-6:45 PM,Yes - small (coffee/month)
+415,Raidurg→Madhapur,35,Yes,6:15-6:45 PM,Yes - transport stipend
+416,Mindspace→Kukatpally,40,No,4:45-5:15 PM,Yes - small (coffee/month)
+417,Other,50,No,7:15-7:45 PM,None
+418,Mindspace→Gachibowli,40,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+419,Gachibowli→HITEC,30,Yes,4:45-5:15 PM,None
+420,Raidurg→Madhapur,20,No,6:45-7:15 PM,Yes - small (coffee/month)
+421,Mindspace→Kukatpally,50,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+422,Raidurg→Madhapur,20,No,4:45-5:15 PM,None
+423,Other,50,Yes,5:45-6:15 PM,None
+424,Raidurg→Madhapur,40,Maybe,5:45-6:15 PM,None
+425,Gachibowli→HITEC,60,No,5:15-5:45 PM,Yes - transport stipend
+426,Madhapur→IKEA,45,No,7:45-8:15 PM,Yes - transport stipend
+427,Mindspace→Kukatpally,60,Maybe,7:15-7:45 PM,None
+428,Mindspace→Kukatpally,35,Yes,6:15-6:45 PM,Yes - transport stipend
+429,Raidurg→Madhapur,45,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+430,Mindspace→Gachibowli,35,Yes,5:45-6:15 PM,None
+431,Gachibowli→HITEC,40,No,6:15-6:45 PM,None
+432,Madhapur→IKEA,40,No,6:15-6:45 PM,Yes - small (coffee/month)
+433,Mindspace→Gachibowli,50,No,4:45-5:15 PM,Yes - small (coffee/month)
+434,Mindspace→Kukatpally,60,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+435,Gachibowli→HITEC,45,Yes,7:15-7:45 PM,None
+436,Mindspace→Kukatpally,35,Yes,5:45-6:15 PM,None
+437,Gachibowli→HITEC,35,Yes,4:45-5:15 PM,Yes - small (coffee/month)
+438,Mindspace→Gachibowli,45,No,6:45-7:15 PM,None
+439,Raidurg→Madhapur,30,Yes,5:15-5:45 PM,None
+440,Mindspace→Kukatpally,30,Yes,5:15-5:45 PM,None
+441,Raidurg→Madhapur,35,Maybe,5:15-5:45 PM,Yes - transport stipend
+442,Mindspace→Gachibowli,35,Yes,5:45-6:15 PM,Yes - transport stipend
+443,Raidurg→Madhapur,35,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+444,Mindspace→Kukatpally,30,No,6:15-6:45 PM,Yes - transport stipend
+445,Gachibowli→HITEC,20,Yes,5:15-5:45 PM,None
+446,Madhapur→IKEA,20,No,7:15-7:45 PM,Yes - small (coffee/month)
+447,Mindspace→Kukatpally,60,Maybe,7:15-7:45 PM,None
+448,Mindspace→Kukatpally,35,Maybe,7:15-7:45 PM,Yes - small (coffee/month)
+449,Mindspace→Kukatpally,35,Yes,5:15-5:45 PM,Yes - transport stipend
+450,Raidurg→Madhapur,45,Maybe,5:45-6:15 PM,Yes - small (coffee/month)
+451,Raidurg→Madhapur,30,Yes,7:45-8:15 PM,None
+452,Mindspace→Gachibowli,60,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+453,Mindspace→Kukatpally,45,Yes,4:45-5:15 PM,None
+454,Mindspace→Gachibowli,20,Maybe,4:45-5:15 PM,Yes - transport stipend
+455,Raidurg→Madhapur,35,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+456,Mindspace→Gachibowli,50,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+457,Other,60,No,6:15-6:45 PM,Yes - small (coffee/month)
+458,Mindspace→Kukatpally,40,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+459,Raidurg→Madhapur,40,Yes,4:45-5:15 PM,None
+460,Mindspace→Gachibowli,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+461,Mindspace→Gachibowli,60,Yes,7:15-7:45 PM,None
+462,Gachibowli→HITEC,30,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+463,Raidurg→Madhapur,60,Yes,6:45-7:15 PM,Yes - transport stipend
+464,Other,40,No,7:45-8:15 PM,Yes - transport stipend
+465,Mindspace→Kukatpally,40,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+466,Mindspace→Kukatpally,40,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+467,Gachibowli→HITEC,30,Maybe,5:15-5:45 PM,None
+468,Raidurg→Madhapur,30,Yes,6:45-7:15 PM,Yes - small (coffee/month)
+469,Mindspace→Kukatpally,30,No,6:15-6:45 PM,None
+470,Mindspace→Kukatpally,30,Yes,6:15-6:45 PM,Yes - small (coffee/month)
+471,Mindspace→Kukatpally,45,Yes,6:45-7:15 PM,None
+472,Madhapur→IKEA,35,Yes,5:45-6:15 PM,None
+473,Mindspace→Kukatpally,20,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+474,Mindspace→Kukatpally,60,Yes,6:15-6:45 PM,None
+475,Mindspace→Kukatpally,50,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+476,Mindspace→Gachibowli,60,Yes,6:45-7:15 PM,None
+477,Mindspace→Kukatpally,60,Yes,6:45-7:15 PM,None
+478,Mindspace→Gachibowli,30,Yes,5:45-6:15 PM,Yes - small (coffee/month)
+479,Mindspace→Kukatpally,35,Yes,7:15-7:45 PM,None
+480,Gachibowli→HITEC,45,Yes,7:15-7:45 PM,None
+481,Mindspace→Kukatpally,45,Yes,5:15-5:45 PM,Yes - small (coffee/month)
+482,Mindspace→Gachibowli,30,No,7:45-8:15 PM,None
+483,Madhapur→IKEA,50,Yes,5:15-5:45 PM,Yes - transport stipend
+484,Raidurg→Madhapur,30,No,5:15-5:45 PM,None
+485,Mindspace→Gachibowli,30,No,5:15-5:45 PM,None
+486,Mindspace→Kukatpally,40,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+487,Mindspace→Kukatpally,40,Maybe,6:15-6:45 PM,None
+488,Raidurg→Madhapur,40,Maybe,5:15-5:45 PM,None
+489,Other,20,Yes,5:45-6:15 PM,None
+490,Raidurg→Madhapur,50,Yes,6:15-6:45 PM,None
+491,Raidurg→Madhapur,35,Maybe,4:45-5:15 PM,Yes - transport stipend
+492,Gachibowli→HITEC,30,No,7:15-7:45 PM,None
+493,Mindspace→Gachibowli,50,Yes,7:15-7:45 PM,Yes - small (coffee/month)
+494,Mindspace→Kukatpally,60,Yes,6:15-6:45 PM,Yes - transport stipend
+495,Raidurg→Madhapur,50,Yes,7:45-8:15 PM,Yes - small (coffee/month)
+496,Other,50,Yes,5:45-6:15 PM,Yes - transport stipend
+497,Mindspace→Kukatpally,45,No,7:45-8:15 PM,None
+498,Raidurg→Madhapur,40,Yes,6:15-6:45 PM,Yes - transport stipend
+499,Mindspace→Kukatpally,20,Yes,6:15-6:45 PM,None
+500,Mindspace→Gachibowli,35,No,5:15-5:45 PM,Yes - small (coffee/month)
