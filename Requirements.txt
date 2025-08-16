@@ -1,6 +1,6 @@
-numpy
-pandas
-plotly
-pydeck
-streamlit
-Pillow
+numpy==1.26.4
+pandas==2.2.2
+plotly==5.23.0
+pydeck==0.9.1
+streamlit==1.38.0
+Pillow==10.4.0
