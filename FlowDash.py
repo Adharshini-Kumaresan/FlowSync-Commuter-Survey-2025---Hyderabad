@@ -382,6 +382,6 @@ with tab6:
 # -------------------------
 st.markdown("---")
 st.markdown(
-    "<div class='footer-note'>This dashboard uses sample/synthetic data if live CSVs are not provided. Replace the CSVs with telemetry & HR data to power a real pilot. © FlowSync</div>",
+    "<div class='footer-note'>© FlowSync</div>",
     unsafe_allow_html=True
 )
