@@ -77,13 +77,13 @@ def load_csv_required(path):
 # -------------------------
 # Load required datasets
 # -------------------------
-traffic = load_csv_required(r"d:\DataViz\FlowSync-Dash\flowsync_hitec_traffic_timeseries.csv")
-companies = load_csv_required(r"d:\DataViz\FlowSync-Dash\flowsync_hitec_companies_sample.csv")
-survey = load_csv_required(r"d:\DataViz\FlowSync-Dash\flowsync_commuter_survey.csv")
+traffic = load_csv_required("flowsync_hitec_traffic_timeseries.csv")
+companies = load_csv_required("flowsync_hitec_companies_sample.csv")
+survey = load_csv_required("flowsync_commuter_survey.csv")
 
 # Optional dataset
 emissions = None
-emissions_path = r"d:\DataViz\FlowSync-Dash\flowsync_emissions_econ_estimates.csv"
+emissions_path = "flowsync_emissions_econ_estimates.csv"
 if os.path.exists(emissions_path):
     emissions = pd.read_csv(emissions_path)
 
